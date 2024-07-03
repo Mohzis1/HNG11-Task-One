@@ -1,0 +1,81 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(227, 233, 235)
+  
+  }
+  .container{
+   width: 100%;
+   height: auto;
+  }
+
+  .first-container{
+  text-align: center;
+  min-width: 375px;
+  min-height: fit-content;
+    }
+    
+  
+  .caption-intro{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(53, 53, 53);
+  }
+  .info{
+    text-align: center;
+    height: fit-content;
+    width: auto;
+  }
+  .display-name h2{
+    color: rgb(53, 53, 53);
+    font-style: italic;
+  }
+  .current-time  {
+    color:  rgb(53, 53, 53);
+  }
+.current-day  {
+  color: rgb(53, 53, 53);
+}
+.slack-email{
+  color:  rgb(53, 53, 53);
+}
+ img {
+ padding: 4px;
+ object-fit: cover;
+   
+}
+
+.main-container p{
+  font-family:  'Arial Narrow', Arial, sans-serif;
+  font-size: 23px;
+  font-weight: lighter;
+  padding: 21px;
+  background-color: aliceblue;
+  text-indent: 1em;
+   
+  
+}
+.main-container{
+  background-color: aliceblue;
+  border: 2px solid rgb(102, 101, 101);
+  border-radius: 4px;
+}
+.main-container .intro{
+text-align: center;
+}
+ .listings{
+  box-shadow: 10px 2px 5px rgba(0.2, 0, 0, 0.2);
+  padding: 55px;
+  background-color: aliceblue;
+  font-family:  'Arial Narrow', Arial, sans-serif;
+  font-style: italic;
+  font-size: 20px;
+  line-height: 1.3;
+  
+ }
+ .listings li{
+  margin-bottom: 10px;
+ }
+
+ 
